@@ -1,17 +1,18 @@
 Apa yang baru di versi ini ?
 
-- Penambahan fitur untuk merubah Logo Sekolah sendiri
-- Penambahan fitur untuk merubah Nama Sekolah sendiri
-- Format penulisan jam otomatis hh:mm:dd
-- Penambahan fitur tanggal
-- Penataan ulang bahasa
-- Penambahan fitur kunci jadwal
-- Penambahan nada standar bel hingga jam ke 10
-- Perbaikan bug cek update otomatis saat terhubung Internet
-- Penambahan fitur cek update secara manual
-- Penataan ulang Antar Muka
-- Perbaikan bug pada "Opsi Otomatis" pada jam 00:00:00
-- Penambahan fitur cek update otomatis pada jam 00:00:00
-- Pengecekan internet secara berkala (status online /offline)
-- Perbaikan bug jendela update
-- Error handling ketika terjadi kendala jaringan
+- [Penambahan] Fitur untuk merubah Logo Sekolah sendiri
+- [Penambahan] Fitur untuk merubah Nama Sekolah sendiri
+- [Penambahan] Fitur format penulisan jam otomatis hh:mm:dd
+- [Penambahan] Fitur tanggal
+- [Penambahan] fitur kunci jadwal
+- [Penambahan] nada standar bel hingga jam ke 10
+- [Penambahan] fitur cek update secara manual
+- [Penambahan] fitur cek update otomatis pada jam 00:00:00
+- [Pengecekan] internet secara berkala (status online /offline)
+- [Penambahan] Error handling ketika terjadi kendala jaringan
+- [Perbaikan] Penataan ulang Antar Muka
+- [Perbaikan] bug pada "Opsi Otomatis" pada jam 00:00:00
+- [Perbaikan] bug jendela update
+- [Perbaikan] bug cek update otomatis saat terhubung Internet
+- [Perbaikan] Penataan ulang bahasa
+- [Perubahan] Misahan Hari Selasa s/d Kamis menjadi Selasa, Rabu, Kamis
