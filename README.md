@@ -1,3 +1,3 @@
 # belsekolahgratis
 clound variable
-Jangan merubah file kecuali isi
+Jangan merubah directori dan file kecuali isi
